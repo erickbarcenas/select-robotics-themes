@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ibarcenas/rosdev/catkin_ws/install/setup.sh
